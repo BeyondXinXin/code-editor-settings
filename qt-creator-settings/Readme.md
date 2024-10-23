@@ -1,0 +1,4 @@
+
+> ***\Tools\QtCreator\share\qtcreator
+
+

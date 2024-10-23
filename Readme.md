@@ -1,5 +1,5 @@
 
-> ***\Tools\QtCreator\share\qtcreator
+## Qt Creator
 
 ![](imgs/screenshot.png)
 
